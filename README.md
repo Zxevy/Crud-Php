@@ -1,4 +1,4 @@
-Create database mysql
+Create table in database mysql
 
 Query
 ```
